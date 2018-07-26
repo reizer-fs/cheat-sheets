@@ -86,3 +86,8 @@ nyprof is a good debugger that supports flame graphs and a very useful static HT
 To run CGIs with ad-hoc request parameters
 
     QUERY_STRING='<some query>' REQUEST_METHOD=GET REMOTE_USER=<user> perl -d:NYTProf <cgi script>
+
+Finding A Perl Module Path
+    perl -MList::Util -e'print $_ . " => " . $INC{$_} . "\n" for keys %INC'
+Using Perldoc To Find Perl Module's Paths
+    perldoc -lm List::Util
