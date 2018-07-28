@@ -11,7 +11,24 @@ A collection of multiple cheatsheet
 
 .. toctree::
    :maxdepth: 2
+   :caption: Table of Contents
    :caption: Contents:
 
-   usage
-   contribution
+   Agile
+   Containers
+   DevOps Automation
+   DevOps Linux
+   DevOps Services
+   Glib Examples
+   Go Examples
+   Javascript Examples
+   Languages
+   Network
+   PHP Examples
+   Python Examples
+   Regex Examples
+   Scripting
+   Security
+   Solutions
+   Virtualisation
+   Windows
