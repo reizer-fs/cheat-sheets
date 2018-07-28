@@ -12,9 +12,8 @@ A collection of multiple cheatsheet
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents
-   :caption: Contents:
 
-   Agile
+   Agile/*
    Containers
    DevOps Automation
    DevOps Linux
