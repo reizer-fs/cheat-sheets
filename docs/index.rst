@@ -13,21 +13,3 @@ A collection of multiple cheatsheet
    :maxdepth: 2
    :caption: Table of Contents
 
-   Agile/*
-   Containers
-   DevOps Automation
-   DevOps Linux
-   DevOps Services
-   Glib Examples
-   Go Examples
-   Javascript Examples
-   Languages
-   Network
-   PHP Examples
-   Python Examples
-   Regex Examples
-   Scripting
-   Security
-   Solutions
-   Virtualisation
-   Windows
