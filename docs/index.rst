@@ -12,4 +12,5 @@ A collection of multiple cheatsheet
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents
-
+   
+   Puppet.rst
